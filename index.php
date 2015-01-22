@@ -21,6 +21,7 @@
 </div>
 <h1>Recat</h1>
 <p>Testing Git</p>
+<p>Testing Git2</p>
 <label for = "show-menu" class = 'fill'></label>
 
 </body>
